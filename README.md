@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/trishitchar/trishitchar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 [![An image of @bhavesh8844's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavesh8844)](https://holopin.io/@bhavesh8844)
