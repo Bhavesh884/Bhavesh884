@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <p align="center">
   <img src="https://github.com/trishitchar/trishitchar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -8,6 +8,7 @@
 
 <!-- **Bhavesh884/Bhavesh884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
+ ### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Structures abd Algorithms
